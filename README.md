@@ -1,1 +1,1 @@
-# moje-konicky
+# Moje koníčky
