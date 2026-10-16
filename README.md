@@ -5,3 +5,5 @@ Tento repozitář slouží k prezentaci mých oblíbených zájmů a aktivit ve 
 ![Moje oblíbená hra](images/OIP.wepb)
 
 Vložení obrázku do README
+
+[Oficiální stránka o hraní her](https://store.steampowered.com)
