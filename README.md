@@ -12,3 +12,5 @@ Tento repozitář slouží k prezentaci mých oblíbených zájmů a aktivit ve 
 - Sledování seriálů
 
 ![Ukázka kódu](images/code.png)
+
+[Stránka o programování](https://www.github.com)
