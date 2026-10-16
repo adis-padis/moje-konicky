@@ -16,3 +16,5 @@ Tento repozitář slouží k prezentaci mých oblíbených zájmů a aktivit ve 
 [Stránka o programování](https://www.github.com)
 
 Tento repozitář slouží k prezentaci mých **oblíbených zájmů** a aktivit.
+
+> **Poznámka:** Stránka je stále v procesu tvorby!
