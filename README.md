@@ -10,3 +10,5 @@ Tento repozitář slouží k prezentaci mých oblíbených zájmů a aktivit ve 
 - Hraní videoher
 - Programování
 - Sledování seriálů
+
+![Ukázka kódu](images/code.png)
